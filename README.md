@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on ML, AI and DL projects focused on solving real-world problems.<br>Interested in collaborating on impactful AI/ML projects in healthcare, finance, and intelligent automation that combine research with real-world applications.<br>Seeking guidance and collaboration in building AI-powered systems that improve decision-making and accessibility in healthcare, finance, and people-focused technologies.<br>Ask me about machine learning models, deep learning frameworks, AI applications, and turning data into intelligent.<br>I enjoy simplifying complex AI concepts and believe technology is most powerful when it genuinely helps people in everyday life.
+Working on ML, AI and DL projects focused on solving real-world problems.<br>Interested in collaborating on impactful AI/ML projects in healthcare, finance, and intelligent automation that combine research with real-world applications.<br>Seeking guidance and collaboration in building AI-powered systems that improve decision-making and accessibility in healthcare, finance, and people-focused technologies.<br>Ask me about ML models, DL frameworks, AI applications, and turning data into intelligent.<br>I enjoy simplifying complex AI concepts and believe technology is most powerful when it genuinely helps people in everyday life.
 
 
 ## 🌐 Socials:
