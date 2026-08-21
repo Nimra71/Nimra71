@@ -1,19 +1,117 @@
-# 💫 About Me:
-Working on ML and DL projects focused on solving real-world problems.<br>Interested in collaborating on impactful AI/ML projects in healthcare, finance, and intelligent automation that combine research with real-world applications.<br>Seeking guidance and collaboration in building AI-powered systems that improve decision-making and accessibility in healthcare, finance, and people-focused technologies.<br>Ask me about ML models, DL frameworks, AI applications, and turning data into intelligent.<br>I enjoy simplifying complex AI concepts and believe technology is most powerful when it genuinely helps people in everyday life.
+# Hi, I'm Nimra Fatima 👋
 
+### AI/ML Engineer | Generative AI | LLMs | RAG | Computer Vision
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nimra-fatima-b67760333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+I'm an AI/ML engineer focused on building **real-world AI systems** that solve practical problems.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nimra71&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nimra71&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimra71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My work spans **Generative AI, LLM applications, RAG pipelines, multi-agent systems, computer vision, and machine learning**. I enjoy taking an idea from research and experimentation to a working, deployed application.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nimra71&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 **Bachelor of Information Technology — CGPA 3.76**
+🤖 Building AI systems with real-world applications
+🔭 Currently exploring **Agentic AI, LLMs, RAG & Computer Vision**
+💡 Interested in AI for **healthcare, finance, automation & people-focused technologies**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nimra71&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 Featured Projects
+
+### 🛡️ GuardianAI — Agentic Personal Safety Platform
+
+A production-deployed multi-agent AI safety platform with **5 specialized AI agents** coordinated through a central orchestrator.
+
+* 🤖 Multi-agent AI architecture
+* 🧠 Gemma 3 + Fireworks AI
+* ⚡ FastAPI backend
+* 🗄️ PostgreSQL
+* 📍 AI-based route safety scoring with XGBoost
+* 🎙️ Real-time voice distress detection
+* 🚨 Location-based emergency alerts
+* 🧪 Automated testing & production monitoring
+
+**Tech:** Python · FastAPI · PostgreSQL · Gemma 3 · Fireworks AI · XGBoost · Multi-Agent AI
+
+---
+
+### 👁️ Intelligent Crowd Safety Monitoring System
+
+A real-time computer vision system designed for crowded environments.
+
+Detects events including:
+
+* Fighting
+* Theft
+* Medical emergencies
+* Harassment
+* Distressed individuals
+
+**Tech:** YOLOv8m · SlowFast R50 · FER+ CNN · ByteTrack · Deep Learning
+
+---
+
+### 📚 Intelligent Document Analysis — RAG
+
+A PDF question-answering system using Retrieval-Augmented Generation.
+
+* 🔎 FAISS semantic search
+* 🧠 Quantized LLMs
+* 📄 PDF document processing
+* ⚡ 4-bit quantization
+* 🖥️ Gradio interface
+
+**Tech:** Python · RAG · FAISS · LLMs · Gradio
+
+---
+
+### 🎯 Real-Time Object Detection
+
+GPU-accelerated YOLOv8 pipeline for detecting and tracking objects in long-form video with bounding boxes and confidence scores.
+
+**Tech:** Python · PyTorch · YOLOv8 · CUDA
+
+---
+
+## 🧠 What I Work With
+
+### 🤖 AI & Generative AI
+
+`LLMs` `RAG` `LangChain` `Multi-Agent Systems` `Prompt Engineering` `OpenAI` `Fireworks AI` `Hugging Face`
+
+### 👁️ Machine Learning & Computer Vision
+
+`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `YOLOv8` `XGBoost` `Transformers`
+
+### ⚙️ Backend & Development
+
+`Python` `FastAPI` `Django` `REST APIs` `JavaScript` `TypeScript`
+
+### 🗄️ Data & Cloud
+
+`PostgreSQL` `MySQL` `FAISS` `Pandas` `NumPy` `Docker` `AWS` `Google Cloud`
+
+### 🛠️ Tools
+
+`Git` `GitHub` `Figma` `MLflow`
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Nimra71\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Nimra71\&theme=dark\&hide_border=false)
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** [nimrafatima745@gmail.com](mailto:nimrafatima745@gmail.com)
+💼 **LinkedIn:** [Nimra Fatima](https://www.linkedin.com/in/nimra-fatima-b67760333/)
+💻 **GitHub:** [@Nimra71](https://github.com/Nimra71)
+
+---
+
+### 💭 My Approach
+
+> I believe AI is most powerful when it moves beyond experimentation and becomes something that genuinely helps people.
+
+**Building → Learning → Deploying → Improving 🚀**
